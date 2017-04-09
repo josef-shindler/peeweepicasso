@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "peeweepicasso.data.unityweb",
+"asmCodeUrl": "peeweepicasso.asm.code.unityweb",
+"asmMemoryUrl": "peeweepicasso.asm.memory.unityweb",
+"asmFrameworkUrl": "peeweepicasso.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#808B80"
+}
