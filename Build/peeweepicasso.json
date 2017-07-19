@@ -1,6 +1,8 @@
 {
 "TOTAL_MEMORY": 536870912,
 "dataUrl": "peeweepicasso.data.unityweb",
+"wasmCodeUrl": "peeweepicasso.wasm.code.unityweb",
+"wasmFrameworkUrl": "peeweepicasso.wasm.framework.unityweb",
 "asmCodeUrl": "peeweepicasso.asm.code.unityweb",
 "asmMemoryUrl": "peeweepicasso.asm.memory.unityweb",
 "asmFrameworkUrl": "peeweepicasso.asm.framework.unityweb",
